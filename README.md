@@ -35,6 +35,6 @@ Once `pip` has finished downloading the dependencies:
 (env)$ python manage.py runserver
 ```
 
-## For signup and login in the web application there is a pattern which we should maintain like xyz@ourorg.in (@ourorg.in) and for admin registration pattern should be xyzadmin@ourorg.in and most important admin registration only can happen through terminal with command below
+For signup and login in the web application there is a pattern which we should maintain like xyz@ourorg.in (@ourorg.in) and for admin registration pattern should be xyzadmin@ourorg.in and most important admin registration only can happen through terminal with command below
 ```sh
 $ python manage.py createsuperuser
